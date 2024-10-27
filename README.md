@@ -30,11 +30,6 @@ Profissional com 19 anos de experiência sólida em **Engenharia de Software**, 
 ![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
-
-
-https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
-
-
 ### Certificações
 - **Microsoft Azure e AWS**: Certificações avançadas em nuvem, com ênfase em arquitetura e operações DevOps.
 - **Scrum e Kanban**: Especialização em metodologias ágeis para otimização de processos e entregas.
