@@ -13,8 +13,7 @@ Profissional com 19 anos de experiência sólida em **Engenharia de Software**, 
 - **Experiência Internacional**: Programas de intercâmbio em **Londres** e **Nova York** para aperfeiçoamento do inglês, expandindo a visão cultural e adaptabilidade profissional.
 
 ## ⚡ Tech
-![Oracle]([https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white
-))
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
