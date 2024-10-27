@@ -1,4 +1,5 @@
-# Rodrigo Sena de Oliveira ![Brasil](https://cdn-icons-png.flaticon.com/512/197/197386.png)
+# Rodrigo Sena de Oliveira <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="16" />
+
 **Localização**: São Paulo, Brasil  
 **Cargo**: Especialista de Sistemas em DevOps e Melhoria Contínua na [Mapfre](https://www.mapfre.com)  
 
