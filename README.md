@@ -12,6 +12,19 @@ Profissional com 19 anos de experiência sólida em **Engenharia de Software**, 
 - **Visualização de Dados**: Proficiência em **Power BI** e **Tableau** para criar painéis que facilitam a tomada de decisões.
 - **Experiência Internacional**: Programas de intercâmbio em **Londres** e **Nova York** para aperfeiçoamento do inglês, expandindo a visão cultural e adaptabilidade profissional.
 
+## ⚡ Tech
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+
+
 ### Certificações
 - **Microsoft Azure e AWS**: Certificações avançadas em nuvem, com ênfase em arquitetura e operações DevOps.
 - **Scrum e Kanban**: Especialização em metodologias ágeis para otimização de processos e entregas.
